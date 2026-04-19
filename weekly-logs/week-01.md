@@ -1,6 +1,6 @@
 # Week 01 — Python Study Log
 **Dates:** April 18–25, 2026  
-**Total time:** ~5 hrs
+**Total time:** ~10 hrs
 
 ## What I Worked On
 - Monday: [TryHackMe room name + what it covered]
