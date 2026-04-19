@@ -1,5 +1,5 @@
 # Week 01 — Python Study Log
-**Dates:** April 21–25, 2026  
+**Dates:** April 18–25, 2026  
 **Total time:** ~5 hrs
 
 ## What I Worked On
